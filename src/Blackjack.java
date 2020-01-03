@@ -1,3 +1,6 @@
+//initial version of BlackJack game created early in Programming Fundamentals 1. need to clean up.
+
+
 import java.util.Scanner;
 class P1Random {
     private long next;
